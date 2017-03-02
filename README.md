@@ -1,7 +1,8 @@
 measure-it
 ==========
-[![NPM version](https://badge.fury.io/js/measureit.svg)](https://badge.fury.io/js/measureit)
-[![NPM downloads](https://img.shields.io/npm/dm/measureit.svg?style=flat)](https://www.npmjs.org/package/measureit)
+[![NPM version](https://badge.fury.io/js/measure-it.svg)](https://badge.fury.io/js/measure-it)
+[![NPM downloads](https://img.shields.io/npm/dm/measure-it.svg?style=flat)](https://www.npmjs.org/package/measure-it)
+[![Build Status](https://travis-ci.org/iameugenejo/measure-it.svg?branch=master)](https://travis-ci.org/iameugenejo/measure-it)
 
 Measure performance of code blocks
 
