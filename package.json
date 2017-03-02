@@ -1,0 +1,26 @@
+{
+  "name": "measure-it",
+  "version": "1.0.0",
+  "description": "Measure performance of code blocks",
+  "main": "lib/measure-it.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "measure",
+    "timing",
+    "bench",
+    "benchmark",
+    "perf",
+    "performance"
+  ],
+  "author": "Eugene Jo <iameugenejo@gmail.com> (https://github.com/iameugenejo)",
+  "bugs": {
+    "url": "https://github.com/iameugenejo/measure-it/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
