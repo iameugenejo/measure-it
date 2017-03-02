@@ -1,6 +1,6 @@
 {
   "name": "measure-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Measure performance of code blocks",
   "main": "lib/measure-it.js",
   "scripts": {
